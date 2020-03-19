@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## 欢迎来到 我的挤羊奶练习记录工具
 
-You can use the [editor on GitHub](https://github.com/beni520/MyMilkingPracticeRecording/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](icon-1024.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+挤羊奶是一件非常有趣和有意义的事情。想要喝上自己亲手挤出来的鲜羊奶，还是得经过自己的一番努力和练习才行。你可以利用这款应用，记录每次挤羊奶练习的情况，计划练习的时间，实际练习的时间等信息。你还可以记录每次练习挤羊奶的收获和感受，帮助你更好的理解挤羊奶的技巧，享受练习带来的乐趣。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+如果您遇到什么需要解答的问题，请发送您的问题到以下邮箱。
 
-# Header 1
-## Header 2
-### Header 3
+我们将第一时间为您解答。
 
-- Bulleted
-- List
+### 邮箱地址: zhanghesongyuan7@126.com
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/beni520/MyMilkingPracticeRecording/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+谢谢！
